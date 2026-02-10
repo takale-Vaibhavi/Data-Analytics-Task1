@@ -19,4 +19,4 @@ This project focuses on data cleaning, exploratory data analysis (EDA), SQL-base
 (Upload dashboard image here)
 
 ## Author
-Vaibhavi Takale
+Vaibhavi Takale.
